@@ -1,4 +1,4 @@
 #AplikasiKonversiSuhu
-Nama  : Febriana Ahni Herlima Nita
-NPm   : 2210010367
+Nama  : Ihsan Auliadi Nugraha
+NPm   : 2210010026
 Kelas : Ti 5a Non Reg Banjaramsin
